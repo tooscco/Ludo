@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table{
+    border: 20px solid black;
+    border-collapse: collapse;
+}
+tr,td{
+    border: 2px solid black;
+    padding: 16px; width: 50px;
+    border-collapse: collapse;
+}
+
+#green{
+    background-image: url(image/IMG_2761.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#yellow{
+    background-image: url(image/IMG_2761.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#red{
+    background-image: url(image/IMG_2761.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#blue{
+    background-image: url(image/IMG_2761.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#dice{
+    background-image: url(image/dice.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
